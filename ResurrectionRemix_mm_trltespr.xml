@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0" />
+	<project name="niv71/android_device_samsung_trltespr" path="device/samsung/trltespr" remote="github" revision="cm-13.0-nivron" />
+	<project name="fat-tire/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-13.0" />
+	<project name="fat-tire/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="cm-13.0" />
+	<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-13.0" />
+	<project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-13.0" />
+	<project name="niv71/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0-nivron" />
+</manifest>
